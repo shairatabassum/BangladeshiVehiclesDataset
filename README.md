@@ -28,17 +28,19 @@ Poribohon-BD is a vehicle dataset of 15 native vehicles of Bangladesh. The datas
 | Multi-class   |         -         |     913      |        -         |
 
 <br>
+<h2>Sample Images from Poribohon-BD Dataset</h2>
+<img src='images/dataset.png' width="100%"><br>
 
 <h2>Cite our paper:</h2>
 <table>
   <tr>
     <td>Plain Text</td>
-    <td>S. Tabassum, M. S. Ullah, and S. Shatabda, "Native Vehicles Classification on Bangladeshi Roads Using CNN with Transfer Learning," IEEE Region 10 Symposium (TENSYMP) 2020, Dhaka, Bangladesh, 2020.</td>
+    <td>S. Tabassum, M. S. Ullah, N. H. Al-nur, and S. Shatabda, "Native Vehicles Classification on Bangladeshi Roads Using CNN with Transfer Learning," IEEE Region 10 Symposium (TENSYMP) 2020, Dhaka, Bangladesh, 2020.</td>
   </tr>
   <tr>
     <td>BibTeX</td>
     <td>@inproceedings{shaira2020native,<br>
-      author={S. {Tabassum} and M. S. {Ullah} and S. {Shatabda}},<br>
+      author={S. {Tabassum} and M. S. {Ullah} and N. H. {Al-nur} and S. {Shatabda}},<br>
       booktitle={IEEE Region 10 Symposium (TENSYMP) 2020},<br>
       title={Native Vehicles Classification on Bangladeshi Roads Using CNN with Transfer Learning},<br>
       year={2020},<br>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>nakib mixed</folder>
+	<filename>mixed (41).jpg</filename>
+	<path>D:\14th semester\Labeling\New folder\nakib mixed\mixed (41).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1642</xmin>
+			<ymin>1565</ymin>
+			<xmax>2571</xmax>
+			<ymax>2207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2357</xmin>
+			<ymin>1565</ymin>
+			<xmax>3149</xmax>
+			<ymax>2186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wheelbarrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2135</xmin>
+			<ymin>1229</ymin>
+			<xmax>2842</xmax>
+			<ymax>1643</ymax>
+		</bndbox>
+	</object>
+</annotation>

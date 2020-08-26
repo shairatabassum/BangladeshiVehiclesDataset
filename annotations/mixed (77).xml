@@ -1,0 +1,62 @@
+<annotation>
+	<folder>nakib mixed</folder>
+	<filename>mixed (77).jpg</filename>
+	<path>D:\14th semester\Labeling\New folder\nakib mixed\mixed (77).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>1538</ymin>
+			<xmax>632</xmax>
+			<ymax>2171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leguna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1341</xmin>
+			<ymin>1276</ymin>
+			<xmax>2460</xmax>
+			<ymax>2295</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leguna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2303</xmin>
+			<ymin>1414</ymin>
+			<xmax>2741</xmax>
+			<ymax>2081</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leguna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2956</xmin>
+			<ymin>1433</ymin>
+			<xmax>3941</xmax>
+			<ymax>1967</ymax>
+		</bndbox>
+	</object>
+</annotation>

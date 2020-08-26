@@ -1,0 +1,38 @@
+<annotation>
+	<folder>nakib mixed</folder>
+	<filename>mixed (36).jpg</filename>
+	<path>D:\14th semester\Labeling\New folder\nakib mixed\mixed (36).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>888</ymin>
+			<xmax>3677</xmax>
+			<ymax>2457</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3498</xmin>
+			<ymin>1525</ymin>
+			<xmax>4388</xmax>
+			<ymax>2225</ymax>
+		</bndbox>
+	</object>
+</annotation>
